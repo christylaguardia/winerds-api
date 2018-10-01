@@ -1,0 +1,7 @@
+
+node_modules
+.DS_Store
+.vscode
+.env
+yarn.lock
+wine-nerds-firebase-adminsdk-dp9uy-25a0bcf3fb.json
