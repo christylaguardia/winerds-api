@@ -10,7 +10,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha tests --recursive",
     "start": "node server.js"
   },
   "author": "Christy La Guardia",
@@ -22,5 +22,11 @@
     "firebase-admin": "^6.0.0",
     "mongoose": "^5.2.17",
     "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "eslint": "^5.6.1",
+    "mocha": "^5.2.0"
   }
 }
