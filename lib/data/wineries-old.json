@@ -1,0 +1,32 @@
+{
+  "name": "White Rose Estate",
+  "address": "6250 Northeast Hilltop Lane Dayton, OR 97114",
+  "url": "https://www.whiteroseestate.com/",
+  "wines": [
+    {
+      "type": "Pinto Nior",
+      "name": "The Neo-Classical Objective",
+      "vintages": [2011, 2012]
+    },
+    {
+      "type": "Pinto Nior",
+      "name": "Anderson Family Vineyard",
+      "vintages": [2011, 2012]
+    },
+    {
+      "type": "Pinto Nior",
+      "name": "Beacon Hill Vineyard",
+      "vintages": [2012]
+    },
+    {
+      "type": "Pinto Nior",
+      "name": "Durant Vineyard",
+      "vintages": [2011, 2012]
+    },
+    {
+      "type": "Pinto Nior",
+      "name": "White Rose Vineyard",
+      "vintages": [2009, 2011, 2012]
+    }
+  ]
+}

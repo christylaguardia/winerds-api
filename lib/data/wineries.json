@@ -1,0 +1,1858 @@
+[
+  {
+    "name": "00 Wines",
+    "address": "801 N Scott Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "https://willamettewines.com/wineries/00-wines/"
+  },
+  {
+    "name": "A Blooming Hill Vineyard & Winery",
+    "address": "5195 SW Hergert Road",
+    "city": "Cornelius",
+    "state": "OR",
+    "zip": "9711312",
+    "url": "http://abloominghillvineyard.com/"
+  },
+  {
+    "name": "ADEA Wine Company",
+    "address": "26421 NW Highway 47",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119",
+    "url": "http://adeawine.com/"
+  },
+  {
+    "name": "Adelsheim Vineyard",
+    "address": "16800 NE Calkins Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://adelsheim.com/"
+  },
+  {
+    "name": "Alexana Estate Vineyard & Winery",
+    "address": "12001 NE Worden Hill Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://alexanawinery.com/"
+  },
+  {
+    "name": "Alit Wine Room",
+    "address": "531 Highway 99W",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://alitwines.com/"
+  },
+  {
+    "name": "Alloro Vineyard",
+    "address": "22075 SW Lebeau Road",
+    "city": "Sherwood",
+    "state": "OR",
+    "zip": "97140",
+    "url": "http://allorovineyard.com/"
+  },
+  {
+    "name": "Amalie Robert Estate",
+    "address": "13531 Bursell Road",
+    "city": "Dallas",
+    "state": "OR",
+    "zip": "97338",
+    "url": "http://amalierobert.com/"
+  },
+  {
+    "name": "Amity Vineyards",
+    "address": "18150 SE Amity Vineyards Road",
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97101",
+    "url": "http://www.amityvineyards.com/"
+  },
+  {
+    "name": "Anam Cara Cellars",
+    "address": "306 N Main Street",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://anamcaracellars.com/"
+  },
+  {
+    "name": "Anderson Family Vineyard",
+    "address": "20120 NE Herring Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://andersonfamilyvineyard.com/"
+  },
+  {
+    "name": "Andrew Rich Wines",
+    "address": "801 N Scott Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://andrewrichwines.com/"
+  },
+  {
+    "name": "Angela Estate",
+    "address": "1326 N Hwy 99W, Suite 105",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://angelaestate.com/"
+  },
+  {
+    "name": "Anne Amie Vineyards",
+    "address": "6580 NE Mineral Springs Road",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://anneamie.com/"
+  },
+  {
+    "name": "Antica Terra",
+    "address": "979 SW Alder Street",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://anticaterra.com/"
+  },
+  {
+    "name": "Antiquum Farm",
+    "address": "25075 Jaeg Road",
+    "city": "Junction City",
+    "state": "OR",
+    "zip": "97448",
+    "url": "http://www.antiquumfarm.com/"
+  },
+  {
+    "name": "Apolloni Vineyards",
+    "address": "14135 NW Timmerman Road",
+    "city": "Forest Grove",
+    "state": "OR",
+    "zip": "97116",
+    "url": "http://apolloni.com/"
+  },
+  {
+    "name": "Aramenta Cellars",
+    "address": "17979 NE Lewis Rogers Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://aramentacellars.com/"
+  },
+  {
+    "name": "ArborBrook Vineyards",
+    "address": "17770 NE Calkins Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://arborbrookwines.com/"
+  },
+  {
+    "name": "Archery Summit",
+    "address": "18599 NE Archery Summit Road",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://archerysummit.com/"
+  },
+  {
+    "name": "Argyle Winery",
+    "address": "691 Highway 99W",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://argylewinery.com/"
+  },
+  {
+    "name": "Artisanal Wine Cellars",
+    "address": "614 E First St",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.artisanalwinecellars.com/"
+  },
+  {
+    "name": "Atticus Wine",
+    "address": "20501 Russell Creek Road",
+    "city": "Yamhill",
+    "state": "OR",
+    "zip": "97148",
+    "url": "http://atticuswine.com/"
+  },
+  {
+    "name": "August Cellars",
+    "address": "14000 NE Quarry Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.augustcellars.com/"
+  },
+  {
+    "name": "Authentique",
+    "address": "5100 SE Rice Lane",
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97101",
+    "url": "http://www.authentiquewinecellars.com/"
+  },
+  {
+    "name": "Ayres Vineyard",
+    "address": "17971 NE Lewis Rogers Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://ayresvineyard.com/"
+  },
+  {
+    "name": "Beacon Hill Winery & Vineyard",
+    "address": "22070 NE Ridge Rd",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119",
+    "url": "http://www.beaconhillwinery.com/"
+  },
+  {
+    "name": "Beaux Frères",
+    "address": "15155 NE North Valley Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://beauxfreres.com/"
+  },
+  {
+    "name": "Beckham Estate Vineyard",
+    "address": "30790 SW Heater Road",
+    "city": "Sherwood",
+    "state": "OR",
+    "zip": "97140",
+    "url": "http://beckhamestatevineyard.com/"
+  },
+  {
+    "name": "Bella Vida Vineyard",
+    "address": "9380 NE Worden Hill Road",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://bellavida.com/"
+  },
+  {
+    "name": "Belle Pente Vineyard & Winery",
+    "address": "12470 NE Rowland Road",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://bellepente.com/"
+  },
+  {
+    "name": "Bells Up Winery",
+    "address": "27895 NE Bell Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.bellsupwinery.com/"
+  },
+  {
+    "name": "Benton-Lane Winery",
+    "address": "23924 Territorial Highway",
+    "city": "Monroe",
+    "state": "OR",
+    "zip": "97456",
+    "url": "http://benton-lane.com/"
+  },
+  {
+    "name": "Benza Vineyards",
+    "address": "16740 SW Pinot Pl",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "url": "htt://www.benza.com/"
+  },
+  {
+    "name": "Bergström Wines",
+    "address": "18215 NE Calkins Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://bergstromwines.com/"
+  },
+  {
+    "name": "Bethel Heights Vineyard",
+    "address": "6060 Bethel Heights Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://bethelheights.com/"
+  },
+  {
+    "name": "Big Table Farm",
+    "address": "26851 NW Williams Canyon Road",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119",
+    "url": "http://bigtablefarm.com/"
+  },
+  {
+    "name": "Björnson Vineyard",
+    "address": "3635 Bethel Heights Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://www.bjornsonwine.com/"
+  },
+  {
+    "name": "Blakeslee Vineyard Estate",
+    "address": "20875 SW Chapman Road",
+    "city": "Sherwood",
+    "state": "OR",
+    "zip": "97140",
+    "url": "http://blakesleevineyard.com/"
+  },
+  {
+    "name": "Boedecker Cellars",
+    "address": "2621 NW 30th Avenue",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97210",
+    "url": "http://boedeckercellars.com/"
+  },
+  {
+    "name": "Bravura Cellars",
+    "address": "108 S College St",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "https://www.bravuracellars.com/"
+  },
+  {
+    "name": "Brick House Vineyards",
+    "address": "18200 Lewis Rogers Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://brickhousewines.com/"
+  },
+  {
+    "name": "Brittan Vineyards",
+    "address": "829 NE Fifth Street",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://brittanvineyards.com/"
+  },
+  {
+    "name": "Broadley Vineyards",
+    "address": "265 South Fifth",
+    "city": "Monroe",
+    "state": "OR",
+    "zip": "97456",
+    "url": "https://www.broadleyvineyards.com/"
+  },
+  {
+    "name": "Brooks",
+    "address": "21101 SE Cherry Blossom Lane",
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97101",
+    "url": "http://brookswines.com/"
+  },
+  {
+    "name": "Bryn Mawr Vineyards",
+    "address": "5935 Bethel Heights Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://brynmawrvineyards.com/"
+  },
+  {
+    "name": "Cana’s Feast Winery",
+    "address": "750 West Lincoln Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://canasfeastwinery.com/"
+  },
+  {
+    "name": "Carabella Vineyard",
+    "address": "16707 SW Edminston Road",
+    "city": "Wilsonville",
+    "state": "OR",
+    "zip": "97070",
+    "url": "http://carabellawine.com/"
+  },
+  {
+    "name": "Carlton Cellars",
+    "address": "130 West Monroe Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://carltoncellars.com/"
+  },
+  {
+    "name": "Carlton Winemakers Studio",
+    "address": "801 N Scott Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://winemakersstudio.com/"
+  },
+  {
+    "name": "Chehalem Winery",
+    "address": "31190 NE Veritas Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://chehalemwines.com/"
+  },
+  {
+    "name": "Chehalem Tasting Room",
+    "address": "106 S Center Street",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://chehalemwines.com/"
+  },
+  {
+    "name": "Cherry Hill Winery",
+    "address": "7867 Crowley Road",
+    "city": "Rickreall",
+    "state": "OR",
+    "zip": "97371",
+    "url": "http://www.cherryhillwinery.com/"
+  },
+  {
+    "name": "Claygate Estate Vineyard",
+    "address": "17205 NE Dopp Rd",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.claygatevineyard.com/"
+  },
+  {
+    "name": "Coelho Winery",
+    "address": "111 Fifth Street",
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97101",
+    "url": "http://coelhowinery.com/"
+  },
+  {
+    "name": "Coeur de Terre Vineyard",
+    "address": "21000 SW Eagle Point Road",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://cdtvineyard.com/"
+  },
+  {
+    "name": "Coleman Vineyard",
+    "address": "22734 SW Latham Road",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://colemanwine.com/"
+  },
+  {
+    "name": "Colene Clemens Vineyards",
+    "address": "22501 NE Dopp Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://coleneclemens.com/"
+  },
+  {
+    "name": "Cooper Mountain Vineyards",
+    "address": "20121 SW Leonardo Lane",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97007",
+    "url": "http://coopermountainwine.com/"
+  },
+  {
+    "name": "Coria Estates",
+    "address": "8252 Redstone Ave SE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97306",
+    "url": "http://www.coriaestates.com/"
+  },
+  {
+    "name": "Craft Wine Company",
+    "address": "213 N Yamhill Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://www.craftwineco.com/"
+  },
+  {
+    "name": "Cramoisi Vineyard",
+    "address": "8670 NE Worden Hill Rd",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://cramoisivineyard.com/"
+  },
+  {
+    "name": "Cristom Vineyards",
+    "address": "6905 Spring Valley Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://www.cristomvineyards.com/"
+  },
+  {
+    "name": "Crowley Wines",
+    "address": "14000 NE Quarry Rd",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.crowleywines.com/"
+  },
+  {
+    "name": "Cubanisimo Vineyards",
+    "address": "1754 Best Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://cubanisimovineyards.com/"
+  },
+  {
+    "name": "David Hill Vineyards & Winery",
+    "address": "46350 NW David Hill Road",
+    "city": "Forest Grove",
+    "state": "OR",
+    "zip": "97116",
+    "url": "http://davidhillwinery.com/"
+  },
+  {
+    "name": "Day Wines at Day Camp",
+    "address": "21160 OR-99W, Dundee, OR 97115",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.daywines.com/"
+  },
+  {
+    "name": "de Lancellotti Family Vineyards",
+    "address": "18605 NE Calkins Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://delancellottifamilyvineyards.com/"
+  },
+  {
+    "name": "De Ponte Cellars",
+    "address": "17545 NE Archery Summit Road",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://depontecellars.com/"
+  },
+  {
+    "name": "De Ponte Cellars' Lonesome Rock Firehouse",
+    "address": "209 N Kutch Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://depontecellars.com/lonesome-rock/"
+  },
+  {
+    "name": "Dion Vineyard",
+    "address": "33155 Riedweg Rd",
+    "city": "Cornelius",
+    "state": "OR",
+    "zip": "97113",
+    "url": "http://www.dionvineyard.com/"
+  },
+  {
+    "name": "Division Winemaking Company",
+    "address": "2425 SE 35th Pl",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "url": "http://www.divisionwineco.com/"
+  },
+  {
+    "name": "Dobbes Family Estate & Wine By Joe",
+    "address": "240 SE Fifth Street",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://dobbesfamilyestate.com/"
+  },
+  {
+    "name": "Domaine Divio",
+    "address": "16435 NE Lewis Rogers Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.domainedivio.com/"
+  },
+  {
+    "name": "Domaine Drouhin Oregon",
+    "address": "6750 NE Breyman Orchard Road",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://domainedrouhin.com/"
+  },
+  {
+    "name": "Domaine Roy & Fils",
+    "address": "8351 NE Worden Hill Rd",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.domaineroy.com/"
+  },
+  {
+    "name": "Domaine Serene",
+    "address": "6555 Hilltop Lane",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://www.domaineserene.com/"
+  },
+  {
+    "name": "Domaine Trouvère",
+    "address": "110-A SW Seventh",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://domainetrouvere.com/"
+  },
+  {
+    "name": "Dominio IV Wines",
+    "address": "11570 NE Intervale Rd",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://dominiowines.com/"
+  },
+  {
+    "name": "Duck Pond Cellars",
+    "address": "23145 Highway 99W",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.duckpondcellars.com/"
+  },
+  {
+    "name": "Dukes Family Vineyards",
+    "address": "7845 SE Amity Road",
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97101",
+    "url": "http://dukesfamilyvineyards.com/"
+  },
+  {
+    "name": "Durant Vineyards",
+    "address": "5430 NE Breyman Orchards Road",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://durantvineyards.com/"
+  },
+  {
+    "name": "Dusky Goose",
+    "address": "8355 NE Warren Rd",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97210",
+    "url": "http://duskygoose.com/"
+  },
+  {
+    "name": "EIEIO",
+    "address": "10100 NW Meadow Lake Road",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://www.onhisfarm.com/"
+  },
+  {
+    "name": "Élevée Winegrowers",
+    "address": "9653 NE Keyes Lane",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.eleveewines.com/"
+  },
+  {
+    "name": "Elizabeth Chambers Cellar",
+    "address": "455 NE Irvine St",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://www.ElizabethChambersCellar.com/"
+  },
+  {
+    "name": "Elk Cove Vineyards",
+    "address": "27751 NW Olson Road",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119",
+    "url": "http://www.elkcove.com/"
+  },
+  {
+    "name": "Elton Winery",
+    "address": "8800 Enchanted Way SE Turner",
+    "city": "Turner",
+    "state": "OR",
+    "zip": "97392",
+    "url": "https://willamettewines.com/wineries/elton-winery/"
+  },
+  {
+    "name": "Eminent Domaine",
+    "address": "20875 NE Ribbon Ridge Rd",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.eminentdomaine.com/"
+  },
+  {
+    "name": "Eola Hills Wine Cellars",
+    "address": "1600 Oak Grove Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://www.eolahillswinery.com/"
+  },
+  {
+    "name": "Erath",
+    "address": "9409 NE Worden Hill Rd",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.erath.com/"
+  },
+  {
+    "name": "Et Fille Wines",
+    "address": "718 E First Street",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://etfillewines.com/"
+  },
+  {
+    "name": "Evening Land - Seven Springs Vineyard",
+    "address": "4180 Lonestar Rd NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://www.eveninglandvineyards.com/"
+  },
+  {
+    "name": "Evening Land Vineyards",
+    "address": "1326 N Hwy 99W, Suite 100",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.eveninglandvineyards.com/"
+  },
+  {
+    "name": "Evesham Wood Vineyard & Winery",
+    "address": "3795 Wallace Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://eveshamwood.com/"
+  },
+  {
+    "name": "The Eyrie Vineyards",
+    "address": "935 NE 10th Avenue",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://eyrievineyards.com/"
+  },
+  {
+    "name": "Failla Wines",
+    "address": "5657 Zena Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://www.faillawinesoregon.com/"
+  },
+  {
+    "name": "Fairsing Vineyard",
+    "address": "20881 NE Laughlin Road",
+    "city": "Yamhill",
+    "state": "OR",
+    "zip": "97148",
+    "url": "http://www.fairsingvineyard.com/"
+  },
+  {
+    "name": "Firesteed Cellars",
+    "address": "2200 N Pacific Hwy W",
+    "city": "Rickreall",
+    "state": "OR",
+    "zip": "97371",
+    "url": "http://firesteed.com/"
+  },
+  {
+    "name": "Five Fourteen Vineyards",
+    "address": "91470 Territorial Hwy",
+    "city": "Junction  City",
+    "state": "OR",
+    "zip": "97448",
+    "url": "http://www.fivefourteenvineyards.com/"
+  },
+  {
+    "name": "Flaneur Wines",
+    "address": "258-A N Kutch St",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://www.flaneurwines.com/"
+  },
+  {
+    "name": "The Four Graces",
+    "address": "9605 NE Fox Farm Road",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://thefourgraces.com/"
+  },
+  {
+    "name": "Fox Farm Vineyards",
+    "address": "575 Hwy 99W",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://foxfarmvineyards.com/"
+  },
+  {
+    "name": "Franny Beck Wines",
+    "address": "108 Fifth St",
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97371",
+    "url": "http://www.frannybeck.com/"
+  },
+  {
+    "name": "Freja Cellars",
+    "address": "16691 SW McFee Place",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "url": "http://frejacellars.com/"
+  },
+  {
+    "name": "Fullerton Wines",
+    "address": "1966 NW Pettygrove St",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97209",
+    "url": "http://www.fullertonwines.com/"
+  },
+  {
+    "name": "Furioso Vineyards",
+    "address": "8415 NE Worden Hill Rd",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.furiosovineyard.com/"
+  },
+  {
+    "name": "Goodfellow Family Cellars",
+    "address": "888 NE 8th Avenue",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://goodfellowfamilycellars.com/"
+  },
+  {
+    "name": "Gothic Wines",
+    "address": "20980 Ne Niederberger Road",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.gothicwine.com/"
+  },
+  {
+    "name": "Gran Moraine Winery",
+    "address": "17090 NE Woodland Loop Rd",
+    "city": "Yamhill",
+    "state": "OR",
+    "zip": "97148",
+    "url": "http://granmoraine.com/"
+  },
+  {
+    "name": "The Great Oregon Wine Company",
+    "address": "2155 NE Lafayette Ave",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://www.greatoregonwine.com/"
+  },
+  {
+    "name": "Grochau Cellars",
+    "address": "9360 SE Eola Hills Rd",
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97101",
+    "url": "http://Grochaucellars.com/"
+  },
+  {
+    "name": "Gusty Farm Estate Vineyard & Winery",
+    "address": "5665 SW Hergert Rd",
+    "city": "Cornelius",
+    "state": "OR",
+    "zip": "97113",
+    "url": "http://www.gustyfarm.com/"
+  },
+  {
+    "name": "Hamacher Wines",
+    "address": "14665 SW Winery Lane",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97007",
+    "url": "http://hamacherwines.com/"
+  },
+  {
+    "name": "Harper Voit Wines",
+    "address": "3635 Bethel Heights Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://harpervoit.com/"
+  },
+  {
+    "name": "Hawks View Winery",
+    "address": "20210 SW Conzelmann Road",
+    "city": "Sherwood",
+    "state": "OR",
+    "zip": "97140",
+    "url": "http://www.hawksviewwinery.com/"
+  },
+  {
+    "name": "Hazelfern",
+    "address": "4008 NE Zimri Dr",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.hazelfern.com/"
+  },
+  {
+    "name": "Helioterra Wines",
+    "address": "2025 SE 7th Avenue",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214",
+    "url": "http://Helioterrawines.com/"
+  },
+  {
+    "name": "Honeywood Winery",
+    "address": "1350 Hines Street SE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97302",
+    "url": "http://honeywoodwinery.com/"
+  },
+  {
+    "name": "Hyland Estates",
+    "address": "20980 NE Niederberger Road",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://hylandestateswinery.com/"
+  },
+  {
+    "name": "Illahe Vineyards",
+    "address": "3275 Ballard Road",
+    "city": "Dallas",
+    "state": "OR",
+    "zip": "97338",
+    "url": "http://illahevineyards.com/"
+  },
+  {
+    "name": "iOTA Cellars",
+    "address": "7895 SE Amity Road",
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97101",
+    "url": "http://iotacellars.com/"
+  },
+  {
+    "name": "Iris Vineyards",
+    "address": "82110 Territorial Hwy",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97405",
+    "url": "http://www.irisvineyards.com/"
+  },
+  {
+    "name": "J. Albin Winery",
+    "address": "19495 Vista Hill Drive",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "url": ""
+  },
+  {
+    "name": "J. Christopher Wines",
+    "address": "17150 NE Hillside Drive",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://jchristopherwines.com/"
+  },
+  {
+    "name": "J.K. Carriere",
+    "address": "9995 NE Parrett Mountain Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://jkcarriere.com/"
+  },
+  {
+    "name": "J.L. Kiff Vineyard",
+    "address": "13546 NW Willis Road",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://www.JLKiffVineyard.com/"
+  },
+  {
+    "name": "Joel Gott Wines",
+    "address": "325 SE Davis Street",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://www.gottwines.com/"
+  },
+  {
+    "name": "Johan Vineyards",
+    "address": "4285 N Pacific Highway (99W)",
+    "city": "Rickreall",
+    "state": "OR",
+    "zip": "79371",
+    "url": "http://johanvineyards.com/"
+  },
+  {
+    "name": "Keeler Estate Vineyard",
+    "address": "5100 SE Rice Lane",
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97101",
+    "url": "http://www.keelerestatevineyard.com/"
+  },
+  {
+    "name": "Kelley Fox Wines",
+    "address": "26421 Highway 47",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119",
+    "url": "http://kelleyfoxwines.com/"
+  },
+  {
+    "name": "Ken Wright Cellars",
+    "address": "120 N. Pine Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "https://kenwrightcellars.com/"
+  },
+  {
+    "name": "King Estate Winery",
+    "address": "80854 Territorial Hwy",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97405",
+    "url": "http://www.kingestate.com/"
+  },
+  {
+    "name": "K&M Wines, Alchemy Vineyard",
+    "address": "128 W Main Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://kandmwines.com/"
+  },
+  {
+    "name": "Knudsen Vineyards",
+    "address": "16550 NE Knudsen Lane",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.knudsenvineyards.com/"
+  },
+  {
+    "name": "Kramer Vineyards",
+    "address": "26830 NW Olson Road",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119",
+    "url": "http://kramervineyards.com/"
+  },
+  {
+    "name": "Lachini Vineyards",
+    "address": "18225 NE Calkins Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://lachinivineyards.com/"
+  },
+  {
+    "name": "Lady Hill Winery",
+    "address": "8400 Champoeg Rd",
+    "city": "St Paul",
+    "state": "OR",
+    "zip": "97137",
+    "url": "http://ladyhill.com/"
+  },
+  {
+    "name": "Lange Estate Winery & Vineyards",
+    "address": "18380 NE Buena Vista Drive",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://langewinery.com/"
+  },
+  {
+    "name": "L'Angolo Estate",
+    "address": "18830 NE Williamson Rd",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.langoloestate.com/"
+  },
+  {
+    "name": "Laurel Ridge Winery",
+    "address": "13301 NE Kuehne Road",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://laurelridgewinery.com/"
+  },
+  {
+    "name": "Lavinea",
+    "address": "801 N Scott St",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://www.lavinea.com/"
+  },
+  {
+    "name": "Le Cadeau Vineyard",
+    "address": "1326 N Highway 99W",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://lecadeauvineyard.com/"
+  },
+  {
+    "name": "Left Coast Estate",
+    "address": "4225 N Pacific Highway 99W",
+    "city": "Rickreall",
+    "state": "OR",
+    "zip": "97371",
+    "url": "http://leftcoastcellars.com/"
+  },
+  {
+    "name": "Lemelson Vineyards",
+    "address": "12020 NE Stag Hollow Road",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://lemelsonvineyards.com/"
+  },
+  {
+    "name": "Lenné",
+    "address": "18760 NE Laughlin Road",
+    "city": "Yamhill",
+    "state": "OR",
+    "zip": "97148",
+    "url": "http://lenneestate.com/"
+  },
+  {
+    "name": "Lingua Franca",
+    "address": "9675 Hopewell Rd",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://www.linguafranca.wine/"
+  },
+  {
+    "name": "Longplay Wine / Lia’s Vineyard",
+    "address": "215 E First Street",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://longplaywine.com/"
+  },
+  {
+    "name": "Westmount",
+    "addres": "20980 NE Niederberger Rd",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "https://maisonnoirwines.com/"
+  },
+  {
+    "name": "Martin Woods",
+    "address": "20500 SW Eagle Point Road",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://www.martinwoodswinery.com/"
+  },
+  {
+    "name": "Matzinger Davies Wine Company",
+    "address": "30835 OR-99W",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.matzingerdavies.com/"
+  },
+  {
+    "name": "Maysara Winery & Momtazi Vineyard",
+    "address": "15765 SW Muddy Valley Road",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://maysara.com/"
+  },
+  {
+    "name": "McMenamins Edgefield Winery",
+    "address": "2126 SW Halsey Street",
+    "city": "Troutdale",
+    "state": "OR",
+    "zip": "97060",
+    "url": "http://www.edgefieldwinery.com/"
+  },
+  {
+    "name": "Merriman Wines",
+    "address": "801 N Scott Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://merrimanwines.com/"
+  },
+  {
+    "name": "Methven Family Vineyards & Winery",
+    "address": "11400 Westland Lane",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://methvenfamilyvineyards.com/"
+  },
+  {
+    "name": "MonksGate Vineyard & Wines",
+    "address": "9500 NE Oak Springs Farm Road",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://monksgate.com/"
+  },
+  {
+    "name": "Montinore Estate",
+    "address": "3663 SW Dilley Road",
+    "city": "Forest Grove",
+    "state": "OR",
+    "zip": "97116",
+    "url": "http://montinore.com/"
+  },
+  {
+    "name": "Natalie’s Estate Winery",
+    "address": "16825 NE Chehalem Drive",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://nataliesestatewinery.com/"
+  },
+  {
+    "name": "Native Flora",
+    "address": "11812 NE Worden Hill Rd",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.nativeflora.com/"
+  },
+  {
+    "name": "Nicolas-Jay",
+    "address": "1002-A N Springbrook Rd, Suite 115",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.nicolas-jay.com/"
+  },
+  {
+    "name": "North Valley Vineyards",
+    "address": "28800 NE Bell Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.northvalleyvineyards.com/"
+  },
+  {
+    "name": "NW Wine Company",
+    "address": "20980 NE Niederberger Rd.",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://nwwineco.com/"
+  },
+  {
+    "name": "Owen Roe",
+    "address": "2761 E Ninth Street",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://owenroe.com/"
+  },
+  {
+    "name": "Panther Creek Cellars",
+    "address": "14455 Woodinville-Redmond Road NE Suite B",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "http://www.panthercreekcellars.com/"
+  },
+  {
+    "name": "Patricia Green Cellars",
+    "address": "15225 NE North Valley Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://patriciagreencellars.com/"
+  },
+  {
+    "name": "Patton Valley Vineyard",
+    "address": "9449 SW Old Highway 47",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119",
+    "url": "http://pattonvalley.com/"
+  },
+  {
+    "name": "Penner-Ash Wine Cellars",
+    "address": "15771 NE Ribbon Ridge Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://pennerash.com/"
+  },
+  {
+    "name": "Pike Road Wines",
+    "address": "105 W Main St",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://www.pikeroadwines.com/"
+  },
+  {
+    "name": "Plum Hill Vineyards",
+    "address": "6505 SW Old Highway 47",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119",
+    "url": "http://plumhillwine.com/"
+  },
+  {
+    "name": "Ponzi Historic Estate",
+    "address": "14665 SW Winery Lane",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97007",
+    "url": "http://ponzivineyards.com/"
+  },
+  {
+    "name": "Ponzi Vineyards",
+    "address": "19500 SW Mountain Home Road",
+    "city": "Sherwood",
+    "state": "OR",
+    "zip": "97140",
+    "url": "http://ponzivineyards.com/"
+  },
+  {
+    "name": "The Potter’s Vineyard & Clay Art Gallery",
+    "address": "14725 NE Quarry Rd.",
+    "city": "NEWBERG",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.pottersvineyard.com/"
+  },
+  {
+    "name": "Prince Hill",
+    "address": "",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": ""
+  },
+  {
+    "name": "Privé Vineyard",
+    "address": "28155 NE Bell Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://privevineyard.com/"
+  },
+  {
+    "name": "Project M",
+    "address": "",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://www.projectmwines.com/"
+  },
+  {
+    "name": "Purple Hands Winery",
+    "address": "1200 N Hwy 99W",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://purplehandswine.com/"
+  },
+  {
+    "name": "R. Stuart & Co. Winery",
+    "address": "528 NE Third Street",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://rstuartandco.com/"
+  },
+  {
+    "name": "R. Stuart & Co. Wine Bar",
+    "address": "528 NE Third Street",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://rstuartandco.com/"
+  },
+  {
+    "name": "Rain Dance Vineyards",
+    "address": "26355 NE Bell Rd",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.raindancevineyards.com/"
+  },
+  {
+    "name": "Raptor Ridge Winery",
+    "address": "18700 SW Hillsboro Highway",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://raptorridgewinery.com/"
+  },
+  {
+    "name": "Redhawk Vineyard & Winery",
+    "address": "2995 Michigan City Lane NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://redhawkwine.com/"
+  },
+  {
+    "name": "Redman Wines",
+    "address": "18975 NE Ribbon Ridge Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://redmanwines.com/"
+  },
+  {
+    "name": "Remy Wines",
+    "address": "17495 NE McDougall Road",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://remywines.com/"
+  },
+  {
+    "name": "Résonance",
+    "address": "12050 NW Meadow Lake Rd",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://resonancewines.com/"
+  },
+  {
+    "name": "REX HILL",
+    "address": "30835 N Hwy 99W",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://REXHILL.com/"
+  },
+  {
+    "name": "Rocky Point Cellars",
+    "address": "130 W Monroe St",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://rockypointcellars.com/"
+  },
+  {
+    "name": "ROCO Winery",
+    "address": "13260 NE Red Hills Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://rocowinery.com/"
+  },
+  {
+    "name": "RR Wines",
+    "address": "31190 NE Veritas Lane",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.rrwines.com/"
+  },
+  {
+    "name": "Ruby Vineyard & Winery",
+    "address": "30088 SW Egger Rd",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "url": "http://www.rubyvineyard.com/"
+  },
+  {
+    "name": "Saffron Fields Vineyard",
+    "address": "18748 NE Laughlin Road",
+    "city": "Yamhill",
+    "state": "OR",
+    "zip": "97148",
+    "url": "http://saffronfields.com/"
+  },
+  {
+    "name": "SchöneTal Cellars",
+    "address": "1722 SW Highway 18, Suite C",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "https://schonetalcellars.wixsite.com/schonetalcellars/"
+  },
+  {
+    "name": "Scott Paul Wines",
+    "address": "128 S Pine Street",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://scottpaul.com/"
+  },
+  {
+    "name": "Seufert Winery",
+    "address": "415 Ferry Street",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://seufertwinery.com/"
+  },
+  {
+    "name": "Shea Wine Cellars",
+    "address": "12321 NE Highway 240",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://sheawinecellars.com/"
+  },
+  {
+    "name": "Siltstone Wines",
+    "address": "12251 SE Dayton Bypass (Hwy. 18)",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://siltstonewines.com/"
+  },
+  {
+    "name": "Silvan Ridge Winery",
+    "address": "27012 Briggs Hill Road",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97405",
+    "url": "http://www.silvanridge.com/"
+  },
+  {
+    "name": "Sineann",
+    "address": "8400 Champoeg Rd.",
+    "city": "St. Paul",
+    "state": "OR",
+    "zip": "97137",
+    "url": "http://sineann.com/"
+  },
+  {
+    "name": "Six Peaks",
+    "address": "19495 Vista Hill Dr.",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123",
+    "url": "https://sixpeakswine.com/"
+  },
+  {
+    "name": "Sokol Blosser Winery",
+    "address": "5000 Sokol Blosser Lane",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://sokolblosser.com/"
+  },
+  {
+    "name": "Soléna Estate",
+    "address": "17096 NE Woodland Loop Road",
+    "city": "Yamhill",
+    "state": "OR",
+    "zip": "97148",
+    "url": "http://solenaestate.com/"
+  },
+  {
+    "name": "Soter Vineyards",
+    "address": "10880 NE Mineral Springs Road",
+    "city": "Carlton",
+    "state": "OR",
+    "zip": "97111",
+    "url": "http://sotervineyards.com/"
+  },
+  {
+    "name": "St. Innocent Winery",
+    "address": "10052 Enchanted Way SE",
+    "city": "Jefferson",
+    "state": "OR",
+    "zip": "97352",
+    "url": "http://stinnocentwine.com/"
+  },
+  {
+    "name": "Stag Hollow",
+    "address": "7930 NE Blackburn Road",
+    "city": "Yamhill",
+    "state": "OR",
+    "zip": "97148",
+    "url": "http://staghollow.com/"
+  },
+  {
+    "name": "Stangeland Vineyards & Winery",
+    "address": "8500 Hopewell Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://stangelandwinery.com/"
+  },
+  {
+    "name": "Stoller Family Estate",
+    "address": "16161 NE McDougall Road",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://stollerfamilyestate.com/"
+  },
+  {
+    "name": "Styring",
+    "address": "19960 NE Ribbon Ridge Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://styringvineyards.com/"
+  },
+  {
+    "name": "Sweet Cheeks Winery",
+    "address": "27007 Briggs Hill Road",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97405",
+    "url": "http://sweetcheekswinery.com/"
+  },
+  {
+    "name": "Tendril Wine Cellars",
+    "address": "3500 NW Bridge Farmer Road",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119",
+    "url": "http://tendrilwines.com/"
+  },
+  {
+    "name": "Terra Vina Wines",
+    "address": "33750 SW Ladd Hill Road",
+    "city": "Wilsonville",
+    "state": "OR",
+    "zip": "97070",
+    "url": "http://terravinawines.com/"
+  },
+  {
+    "name": "Torii Mor",
+    "address": "18323 NE Fairview Drive",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://toriimorwinery.com/"
+  },
+  {
+    "name": "Tresori Vineyards",
+    "address": "17940 N Kings Grade Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://tresorivineyards.com/"
+  },
+  {
+    "name": "Trisaetum Winery",
+    "address": "18401 Ribbon Ridge Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.trisaetum.com/"
+  },
+  {
+    "name": "Tumwater Vineyard",
+    "address": "375 SW Barrel House Way",
+    "city": "West Linn",
+    "state": "OR",
+    "zip": "97068",
+    "url": "http://www.tumwatervineyard.com/"
+  },
+  {
+    "name": "Twomey Cellars",
+    "address": "19920 NE Fairview Dr",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.twomey.com/"
+  },
+  {
+    "name": "Tyee Wine Cellars",
+    "address": "26335 Greenberry Road",
+    "city": "Corvallis",
+    "state": "OR",
+    "zip": "97333",
+    "url": "http://tyeewine.com/"
+  },
+  {
+    "name": "Union Wine Company",
+    "address": "19550 SW Cipole Road",
+    "city": "Tualatin",
+    "state": "OR",
+    "zip": "97062",
+    "url": "http://unionwinecompany.com/"
+  },
+  {
+    "name": "Utopia Vineyard",
+    "address": "17445 NE Ribbon Ridge Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://utopiawine.com/"
+  },
+  {
+    "name": "Van Duzer Vineyards",
+    "address": "11975 Smithfield Road",
+    "city": "Dallas",
+    "state": "OR",
+    "zip": "97338",
+    "url": "http://vanduzer.com/"
+  },
+  {
+    "name": "VIDON Vineyard",
+    "address": "17425 NE Hillside Drive",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.vidonvineyard.com/"
+  },
+  {
+    "name": "Walnut City WineWorks",
+    "address": "475 NE 17th Street",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://walnutcitywineworks.com/"
+  },
+  {
+    "name": "Walter Scott Wines",
+    "address": "6130 Bethel Heights Road NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://walterscottwines.com/"
+  },
+  {
+    "name": "Westmount",
+    "address": "20980 NE Niederberger Rd",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://www.westmountwine.com/"
+  },
+  {
+    "name": "Westrey Wine Company",
+    "address": "1065 NE Alpine Avenue",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://westrey.com/"
+  },
+  {
+    "name": "Whistling Ridge Vineyards",
+    "address": "14551 NE North Valley Road",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132",
+    "url": "http://www.whistlingridgevineyards.com/"
+  },
+  {
+    "name": "White Rose Estate",
+    "address": "6250 NE Hilltop Lane",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://whiteroseestate.com/"
+  },
+  {
+    "name": "WillaKenzie Estate",
+    "address": "19143 NE Laughlin Road",
+    "city": "Yamhill",
+    "state": "OR",
+    "zip": "97148",
+    "url": "http://www.willakenzie.com/"
+  },
+  {
+    "name": "Willamette Valley Vineyards",
+    "address": "8800 Enchanted Way SE",
+    "city": "Turner",
+    "state": "OR",
+    "zip": "97392",
+    "url": "http://wvv.com/"
+  },
+  {
+    "name": "Winderlea Vineyard & Winery",
+    "address": "8905 NE Worden Hill Road",
+    "city": "Dundee",
+    "state": "OR",
+    "zip": "97115",
+    "url": "http://winderlea.com/"
+  },
+  {
+    "name": "Winter’s Hill Estate",
+    "address": "6451 NE Hilltop Lane",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114",
+    "url": "http://wintershillwine.com/"
+  },
+  {
+    "name": "Yamhill Valley Vineyards",
+    "address": "16250 SW Oldsville Road",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://www.yamhill.com/"
+  },
+  {
+    "name": "Youngberg Hill",
+    "address": "10660 SW Youngberg Hill Road",
+    "city": "McMinnville",
+    "state": "OR",
+    "zip": "97128",
+    "url": "http://youngberghill.com/"
+  },
+  {
+    "name": "Zenith Vineyard",
+    "address": "5657 Zena Rd NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304",
+    "url": "http://www.zenithvineyard.com/"
+  }
+]

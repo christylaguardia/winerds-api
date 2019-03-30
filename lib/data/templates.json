@@ -1,0 +1,296 @@
+[
+  {
+    "name": "classic",
+    "description": "the all purpose template",
+    "sections": [
+      {
+        "name": "sight",
+        "categories": [
+          {
+            "name": "clarity",
+            "tags": [
+              "clear",
+              "hazy",
+              "turbid"
+            ]
+          },
+          {
+            "name": "concentration",
+            "tags": [
+              "pale",
+              "medium",
+              "deep"
+            ]
+          },
+          {
+            "name": "color",
+            "tags": [
+              "water white",
+              "straw",
+              "yellow",
+              "gold",
+              "purple",
+              "ruby",
+              "red",
+              "garnet"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "nose",
+        "categories": [
+          {
+            "name": "fruit",
+            "tags": [
+              "apple",
+              "pear",
+              "melon",
+              "dark",
+              "red",
+              "black",
+              "blue",
+              "cassis"
+            ]
+          },
+          {
+            "name": "citrus",
+            "tags": [
+              "lime",
+              "lemon",
+              "orange",
+              "grapefruit",
+              "citrus zest"
+            ]
+          },
+          {
+            "name": "stone/pit",
+            "tags": [
+              "apricot",
+              "nectarine",
+              "peach"
+            ]
+          },
+          {
+            "name": "tropical",
+            "tags": [
+              "banana",
+              "pineapple",
+              "lychee",
+              "coconut"
+            ]
+          },
+          {
+            "name": "berry",
+            "tags": [
+              "strawberry",
+              "raspberry",
+              "cherry",
+              "blueberry",
+              "blackberry"
+            ]
+          },
+          {
+            "name": "fruit-character",
+            "tags": [
+              "ripe",
+              "fresh",
+              "tart",
+              "baked",
+              "stewed",
+              "dried",
+              "desiccated",
+              "bruised",
+              "jammy",
+              "juicy",
+              "flamboyant",
+              "fleshy",
+              "extracted",
+              "plummy"
+            ]
+          },
+          {
+            "name": "non-fruit",
+            "tags": [
+              "vegetal",
+              "herbal",
+              "spice",
+              "animal",
+              "barn",
+              "petrol",
+              "fermentation"
+            ]
+          },
+          {
+            "name": "floral",
+            "tags": [
+              "white flowers",
+              "violet",
+              "perfumed",
+              "lavender",
+              "rose",
+              "citrus blossom",
+              "geranium"
+            ]
+          },
+          {
+            "name": "earth",
+            "tags": [
+              "forest floor",
+              "compost",
+              "mushrooms",
+              "potting soil"
+            ]
+          },
+          {
+            "name": "mineral",
+            "tags": [
+              "mineral",
+              "wet stone",
+              "limestone",
+              "chalk",
+              "slate",
+              "flint"
+            ]
+          },
+          {
+            "name": "wood",
+            "tags": [
+              "none",
+              "old vs new",
+              "large vs small",
+              "french vs american"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "palate",
+        "categories": [
+          {
+            "name": "fruit",
+            "tags": [
+              "apple",
+              "pear",
+              "melon",
+              "dark",
+              "red",
+              "black",
+              "blue",
+              "cassis"
+            ]
+          },
+          {
+            "name": "citrus",
+            "tags": [
+              "lime",
+              "lemon",
+              "orange",
+              "grapefruit",
+              "citrus zest"
+            ]
+          },
+          {
+            "name": "stone/pit",
+            "tags": [
+              "apricot",
+              "nectarine",
+              "peach"
+            ]
+          },
+          {
+            "name": "tropical",
+            "tags": [
+              "banana",
+              "pineapple",
+              "lychee",
+              "coconut"
+            ]
+          },
+          {
+            "name": "berry",
+            "tags": [
+              "strawberry",
+              "raspberry",
+              "cherry",
+              "blueberry",
+              "blackberry"
+            ]
+          },
+          {
+            "name": "fruit-character",
+            "tags": [
+              "ripe",
+              "fresh",
+              "tart",
+              "baked",
+              "stewed",
+              "dried",
+              "desiccated",
+              "bruised",
+              "jammy",
+              "juicy",
+              "flamboyant",
+              "fleshy",
+              "extracted",
+              "plummy"
+            ]
+          },
+          {
+            "name": "non-fruit",
+            "tags": [
+              "vegetal",
+              "herbal",
+              "spice",
+              "animal",
+              "barn",
+              "petrol",
+              "fermentation"
+            ]
+          },
+          {
+            "name": "floral",
+            "tags": [
+              "white flowers",
+              "violet",
+              "perfumed",
+              "lavender",
+              "rose",
+              "citrus blossom",
+              "geranium"
+            ]
+          },
+          {
+            "name": "earth",
+            "tags": [
+              "forest floor",
+              "compost",
+              "mushrooms",
+              "potting soil"
+            ]
+          },
+          {
+            "name": "mineral",
+            "tags": [
+              "mineral",
+              "wet stone",
+              "limestone",
+              "chalk",
+              "slate",
+              "flint"
+            ]
+          },
+          {
+            "name": "wood",
+            "tags": [
+              "none",
+              "old vs new",
+              "large vs small",
+              "french vs american"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
